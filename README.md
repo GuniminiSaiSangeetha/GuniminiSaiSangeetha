@@ -9,9 +9,6 @@
 
 - 🌱 I’m currently learning **AWS, Data Science**
 
-- 📫 How to reach me **saisangeetha.smile@gmail.com**
-
-- 📄 Know about me [https://flowcv.com/resume/o358qie5g3](https://flowcv.com/resume/o358qie5g3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
